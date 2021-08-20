@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello, it's me!
 
-<!--
-**jpeiler97/jpeiler97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm John (AKA JP), a full-stack web developer from Dallas, Texas.
 
-Here are some ideas to get you started:
+I've got a couple of skills and technologies on my belt:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React.js
+- JavaScript
+- HTML5/CSS3
+- Express
+- Node.js
+- Mongoose
+- Sequelize
+- Progressive Web Applications
+- MERN Stack
+
+If you're interested in my work, check out my [portfolio.](https://jpeiler97.github.io/portfolio-hw/)
+
+You may also contact me at jp.eiler97@gmail.com.
