@@ -7,6 +7,7 @@ I've got a couple of skills and technologies on my belt:
 - React.js
 - React Native
 - Next.js
+- TypeScript
 - JavaScript
 - HTML5/CSS3
 - Material UI
