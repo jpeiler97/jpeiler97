@@ -5,6 +5,8 @@ I'm John (AKA JP), a full-stack web developer from Dallas, Texas.
 I've got a couple of skills and technologies on my belt:
 
 - React.js
+- React Native
+- Next.js
 - JavaScript
 - HTML5/CSS3
 - Material UI
