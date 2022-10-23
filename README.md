@@ -6,6 +6,8 @@ I've got a couple of skills and technologies on my belt:
 
 - React.js
 - React Native
+- React Spring animations
+- Redux
 - Next.js
 - TypeScript
 - JavaScript
